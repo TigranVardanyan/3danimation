@@ -15,5 +15,22 @@
   },
   "dependencies": {
     "gulp3": "^1.0.0"
-  }
+  },
+  "name": "3danimation",
+  "description": "optimized Project with gulp 4",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigranVardanyan/3danimation.git"
+  },
+  "author": "tig.va",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigranVardanyan/3danimation/issues"
+  },
+  "homepage": "https://github.com/TigranVardanyan/3danimation#readme"
 }
