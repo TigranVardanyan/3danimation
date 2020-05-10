@@ -3,10 +3,9 @@ body {
   padding: 0;
 }
 .container {
-  height: 100vh;
+  height: 1000px;
 }
 .wrapper {
-  height: 100vh;
   will-change:transform;
   pointer-events: none;
   .img_text_container1 {
@@ -25,7 +24,7 @@ body {
   }
   .img_1, .img_2, .img_3, .img_4, .img_5 {
     position:absolute;
-    height: 240px;
+    height: 275px;
     will-change:transform;
   }
   .img_1 {

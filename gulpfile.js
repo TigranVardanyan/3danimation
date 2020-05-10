@@ -27,7 +27,7 @@ gulp.task('browser-sync', function() { // Создаем таск browser-sync
     //     notify: false // Отключаем уведомления
     // });
     browserSync.init({
-        proxy: "localhost/homepage/4project/animation/app/",  //enter location
+        proxy: "localhost/homepage/4project/animation/3danimation/app/",  //enter location
         port: 433
     });
 });
